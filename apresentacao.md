@@ -9,15 +9,25 @@ theme: sudodoki/reveal-cleaver-theme
 
 --
 
-## Titulo 1
+## Quem somos
   - Ponto 1
   - Ponto 2
 
 -- 
 
-## Final
+# Durante a Faculdade
 
-Finalizando
+-- 
+
+## Eventos
+
+--
+
+## Após a última prova
+
+-- 
+
+## Finalizando 
 
 -- 
 
